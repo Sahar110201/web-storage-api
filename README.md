@@ -1,1 +1,3 @@
-# web-storage-api
+Reflection
+
+For this assignment, I learned how to make a web storage API and store or save values within the browser. At first, it was a bit complicated because I didn't know how to start, I watched the previous lecture and also looked at w3School and MDM for more clarity. I also made use of If and Else statments to add conditions for different inputs such as save and clear button when they are clicked. This showed me how values are saved on browser when we enter them on a website such as a contact form or shipping information. I can't wait to make a more proper form with different inputs.  
